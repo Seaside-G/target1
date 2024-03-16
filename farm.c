@@ -8,7 +8,7 @@ unsigned getval_142()
 {
     return 2425387259U;
 }
-
+//./hex2raw < ac.txt | ./ctarget -q
 unsigned addval_273(unsigned x)
 {
     return x + 3284633928U;
